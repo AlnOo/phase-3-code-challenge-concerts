@@ -25,4 +25,3 @@ c6 = Concert.new("Jun. 1", b2, v1)
 
 
 binding.pry
-puts "goodbye"
